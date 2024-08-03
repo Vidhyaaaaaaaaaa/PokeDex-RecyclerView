@@ -1,0 +1,1 @@
+This project is an Android application built using Kotlin that utilizes a RecyclerView to display detailed information about Pokémon. The application provides a user-friendly interface for browsing Pokémon details efficiently.
